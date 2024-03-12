@@ -22,3 +22,9 @@
 5. Depois de abortar, NIC entra em **backoffice exponencial**
     - Após m colisões, NIC escolhe K aleatoriamente dentre { 0, 1, 2, ..., 2^m-1 }
     - NIC espera K * 512 tempos de bit e retorna à etapa 2.
+
+## Codificação Manchester
+- Usado no 10BaseT
+- Representação de bits transmitidos
+- Permite que clocks nos nós emissor e receptor sejam sincronizados entre si
+- Já é camada física!
