@@ -14,3 +14,13 @@
 ## Casos de Uso
 - São classes que implementam os serviços que o sistema oferece
 - Fazem todas as validações de regras de negócio
+- Não tem relação direta com casos de uso para especificação de requisitos
+
+## Adaptadores
+- Mesmo objetivo que os adaptadores de uma arquitetura Hexagonal
+- Ligar tecnologias com domínios
+- Tecnologias fazem muito mal para o sistema!
+- Tecnologia é apenas um detalhe, que muda muito rápido!
+- Não pode estar no domínio
+
+## Regra de dependência
