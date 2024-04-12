@@ -8,6 +8,10 @@
 
 ## EXT3
 > Journaling pode ser configurado de três modos distintos:
-1. Journaling
+1. Journal
+	- Journal armazena no arquivo de log os dados e metadados (diretórios e informações sobre o arquivo) no arquivo de log
+	- Duas escritas
 2. Ordered
+	- As atualizações no conteúdo do arquivo são armazenados diretamente no sistema de arquivos. Os metadados são escritos em definitivo depois da escrita do conteúdo do arquivo
 3. WriteBack
+	- As atualizações nos metadados e nos arquivos são realizados de forma assíncrona

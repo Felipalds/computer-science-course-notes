@@ -8,20 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a389d2ebb59f659",
+            "id": "03f24c7376a58101",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "81c1eba5121c2e13",
-            "type": "leaf",
-            "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/contiguous-fs.png"
+                "file": "third-year/software-engineering-2/software-architecture/introduction/Introdução.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -31,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "third-year/operating-systems/file-systems/3-logs-systems/1-introduction.md",
+                "file": "third-year/software-engineering-2/software-architecture/camadas/Arquitetura em camadas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c57b63d7c3b28055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "third-year/software-engineering-2/software-architecture/serverless/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "third-year/operating-systems/file-systems/3-logs-systems/1-introduction.md",
+                "file": "third-year/software-engineering-2/software-architecture/serverless/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "third-year/operating-systems/file-systems/3-logs-systems/1-introduction.md",
+                "file": "third-year/software-engineering-2/software-architecture/serverless/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "third-year/operating-systems/file-systems/3-logs-systems/1-introduction.md"
+                "file": "third-year/software-engineering-2/software-architecture/serverless/README.md"
               }
             }
           }
@@ -165,32 +171,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e10dbef36694ff5",
+  "active": "c57b63d7c3b28055",
   "lastOpenFiles": [
-    "third-year/operating-systems/file-systems/2-file-system/3-free-spaces.md",
+    "third-year/software-engineering-2/software-architecture/clean-architecture/README.md",
+    "third-year/software-engineering-2/software-architecture/hexagonal/README.md",
+    "third-year/software-engineering-2/software-architecture/MVC/MVC.md",
+    "third-year/software-engineering-2/software-architecture/MVC/SPA.md",
+    "Pasted image 20240411153047.png",
+    "Pasted image 20240411153020.png",
+    "Pasted image 20240411150024.png",
+    "Pasted image 20240411144952.png",
+    "third-year/software-engineering-2/software-architecture/camadas/Arquitetura em camadas.md",
+    "third-year/software-engineering-2/software-architecture/introduction/Introdução.md",
+    "assets/contiguous-fs.png",
+    "Pasted image 20240411144608.png",
+    "third-year/software-engineering-2/software-architecture/MVC",
+    "Pasted image 20240411143625.png",
+    "Untitled.md",
+    "Untitled 1.md",
+    "third-year/software-engineering-2/software-architecture/camadas",
+    "third-year/artificial-inteligence/fuzzy/Trabalho.md",
+    "third-year/software-engineering-2/software-architecture/introduction",
+    "third-year/artificial-inteligence/neural-network/1. A matemática por trás do neurônio artificial.md",
+    "third-year/artificial-inteligence/fuzzy",
+    "third-year/artificial-inteligence/neural-network",
+    "third-year/artificial-inteligence",
+    "Untitled 1",
+    "third-year/computer-network/data-link-layer/ARP.md",
+    "third-year/computer-network/data-link-layer/VLAN.md",
     "third-year/operating-systems/file-systems/3-logs-systems/1-introduction.md",
+    "third-year/operating-systems/file-systems/2-file-system/3-free-spaces.md",
     "third-year/operating-systems/file-systems/3-logs-systems",
-    "Screenshot 2024-04-01 at 15.39.36.png",
+    "assets/Screenshot 2024-04-01 at 15.39.36.png",
     "third-year/operating-systems/file-systems/2-file-system/2-métodos de alocação.md",
     "third-year/operating-systems/file-systems/2-file-system/fat.md",
     "assets/Screenshot 2024-04-01 at 15.28.05.png",
     "assets/Screenshot 2024-04-01 at 15.33.16.png",
-    "assets/Screenshot 2024-04-01 at 15.32.44.png",
-    "assets/Screenshot 2024-04-01 at 15.32.12.png",
-    "assets/linked-fs.png",
-    "assets/contiguous-fs.png",
     "third-year/operating-systems/file-systems/2-file-system/1-sistema de arquivos.md",
     "third-year/operating-systems/file-systems/2-file-system",
     "third-year/operating-systems/file-systems/1-introduction/2-directories.md",
-    "assets/aciclicos-fs.png",
-    "assets/hex-ports-adapters.svg",
     "third-year/operating-systems/file-systems/1-introduction/1-files.md",
-    "assets/in-tree-fs.png",
     "third-year/operating-systems/file-systems/README.md.md",
     "third-year/operating-systems/file-systems/1-introduction",
     "third-year/software-engineering-2/tests/README.md",
-    "Untitled.md",
-    "Untitled",
     "2024-04-01.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
