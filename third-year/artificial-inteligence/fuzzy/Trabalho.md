@@ -53,6 +53,7 @@
     - Triangular: [80, 90, 100]
 
 #### Pontualidade:
+17
 
 - **Baixa:**
     - Triangular: [0, 10, 20]

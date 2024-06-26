@@ -1,0 +1,1 @@
+Encapsulates a request as an object, allowing to queue it and execute it decoupled.

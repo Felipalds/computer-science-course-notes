@@ -1,0 +1,2 @@
+- vários users usando e editando ao mesmo tempo, uma mesma tupla
+-

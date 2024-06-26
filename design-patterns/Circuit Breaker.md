@@ -1,0 +1,1 @@
+Allows your system to stop the flow of requests to a falling service.

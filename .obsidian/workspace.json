@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aed739bb93551705",
+        "id": "bc79960dff558598",
         "type": "tabs",
         "children": [
           {
-            "id": "03f24c7376a58101",
+            "id": "a96fec05c60fea06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "third-year/software-engineering-2/software-architecture/introduction/Introdução.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e10dbef36694ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "third-year/software-engineering-2/software-architecture/camadas/Arquitetura em camadas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c57b63d7c3b28055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "third-year/software-engineering-2/software-architecture/serverless/README.md",
+                "file": "fourth-year/PAA/Introdução.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.50390243530273
   },
   "right": {
     "id": "fb2765e33bfc3084",
@@ -110,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "third-year/software-engineering-2/software-architecture/serverless/README.md",
+                "file": "fourth-year/PAA/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "third-year/software-engineering-2/software-architecture/serverless/README.md",
+                "file": "fourth-year/PAA/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "third-year/software-engineering-2/software-architecture/serverless/README.md"
+                "file": "fourth-year/PAA/Introdução.md"
               }
             }
           }
@@ -171,50 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c57b63d7c3b28055",
+  "active": "a96fec05c60fea06",
   "lastOpenFiles": [
-    "third-year/software-engineering-2/software-architecture/clean-architecture/README.md",
-    "third-year/software-engineering-2/software-architecture/hexagonal/README.md",
-    "third-year/software-engineering-2/software-architecture/MVC/MVC.md",
-    "third-year/software-engineering-2/software-architecture/MVC/SPA.md",
-    "Pasted image 20240411153047.png",
-    "Pasted image 20240411153020.png",
-    "Pasted image 20240411150024.png",
-    "Pasted image 20240411144952.png",
-    "third-year/software-engineering-2/software-architecture/camadas/Arquitetura em camadas.md",
-    "third-year/software-engineering-2/software-architecture/introduction/Introdução.md",
-    "assets/contiguous-fs.png",
-    "Pasted image 20240411144608.png",
-    "third-year/software-engineering-2/software-architecture/MVC",
-    "Pasted image 20240411143625.png",
-    "Untitled.md",
-    "Untitled 1.md",
-    "third-year/software-engineering-2/software-architecture/camadas",
-    "third-year/artificial-inteligence/fuzzy/Trabalho.md",
-    "third-year/software-engineering-2/software-architecture/introduction",
-    "third-year/artificial-inteligence/neural-network/1. A matemática por trás do neurônio artificial.md",
-    "third-year/artificial-inteligence/fuzzy",
-    "third-year/artificial-inteligence/neural-network",
-    "third-year/artificial-inteligence",
-    "Untitled 1",
-    "third-year/computer-network/data-link-layer/ARP.md",
-    "third-year/computer-network/data-link-layer/VLAN.md",
-    "third-year/operating-systems/file-systems/3-logs-systems/1-introduction.md",
-    "third-year/operating-systems/file-systems/2-file-system/3-free-spaces.md",
-    "third-year/operating-systems/file-systems/3-logs-systems",
-    "assets/Screenshot 2024-04-01 at 15.39.36.png",
-    "third-year/operating-systems/file-systems/2-file-system/2-métodos de alocação.md",
-    "third-year/operating-systems/file-systems/2-file-system/fat.md",
-    "assets/Screenshot 2024-04-01 at 15.28.05.png",
-    "assets/Screenshot 2024-04-01 at 15.33.16.png",
-    "third-year/operating-systems/file-systems/2-file-system/1-sistema de arquivos.md",
-    "third-year/operating-systems/file-systems/2-file-system",
-    "third-year/operating-systems/file-systems/1-introduction/2-directories.md",
-    "third-year/operating-systems/file-systems/1-introduction/1-files.md",
-    "third-year/operating-systems/file-systems/README.md.md",
-    "third-year/operating-systems/file-systems/1-introduction",
-    "third-year/software-engineering-2/tests/README.md",
-    "2024-04-01.md",
+    "fourth-year/ML/Introdução - Aula 01.md",
+    "fourth-year/PAA/Introdução.md",
+    "2024-06-26.md",
+    "assets/Screenshot 2024-06-25 at 15.38.40.png",
+    "js-stack/Next/NextAuth.md",
+    "js-stack/React/useQuery/useQuery.md",
+    "fourth-year/PAA",
+    "fourth-year/ML/Apresentação da disciplina - Aula 00.md",
+    "tools/rabbitmq/Exchange and Routing Key.md",
+    "golang/Error Handling.md",
+    "assets/Screenshot 2024-06-25 at 15.30.01.png",
+    "java/core/Serialization.md",
+    "fourth-year/ML",
+    "fourth-year",
+    "java/Hibernate/Cascade Types.md",
+    "design-patterns/Template.md",
+    "java/Hibernate",
+    "design-patterns/Command.md",
+    "design-patterns/Strategy.md",
+    "design-patterns/Circuit Breaker.md",
+    "design-patterns/Adapter.md",
+    "design-patterns",
+    "java/Spring/Annotations.md",
+    "tools/rabbitmq",
+    "tools",
+    "project_rnp/Projeto Testbeds Blockchains.md",
+    "java/Spring/Introduction.md",
+    "project_rnp/A survey of empirical performance evaluationof permissioned blockchain platforms_ Challenges and opportunities (2021).pdf",
+    "java/Spring",
+    "tcc/articles/Proof of Search.pdf",
+    "Resumo Survey.md",
+    "third-year/computer-network/security/Cryptography.md",
+    "third-year/computer-network/security/Security.md",
+    "tcc/Articles Resume v1.md",
+    "java/core/Loops and Lists.md",
+    "java/Lombok/ToString.Exclude.md",
+    "js-stack/Untitled.md",
+    "java/Jackson/JsonIgnore.md",
+    "assets/Screenshot 2024-05-01 at 11.30.00.png",
+    "assets/Screenshot 2024-05-01 at 11.29.47.png",
+    "assets/Screenshot 2024-04-27 at 14.03.53.png",
+    "assets/Pasted image 20240411143625.png",
+    "assets/Pasted image 20240411153047.png",
+    "assets/Pasted image 20240411153020.png",
+    "assets/Pasted image 20240411150024.png",
+    "assets/Pasted image 20240411144952.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

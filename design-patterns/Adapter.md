@@ -1,0 +1,2 @@
+Allows you to create an interface that allows your system to interact with different APIs without modifying the underlaying API code.
+Use case: to create a common interface with various food store APIs. Each API can have its own adapter that translates its responses into a format your system understand.
