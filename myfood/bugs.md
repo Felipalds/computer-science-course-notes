@@ -1,0 +1,2 @@
+1. Notificação parou de funcionar - DTO sem NoArgsConstruction - Criação de teste unitário para notificação
+2. Produto não fazia nada se abria direto pela página - router usava o history - prever fluxo completo

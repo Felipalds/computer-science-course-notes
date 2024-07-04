@@ -45,14 +45,3 @@
 	- Invariantes
 	- Possibilidade de conversão em valores (atributo pode ser extraído e convertido em valor)
 
-## Processo de aprendizado
-### Aprendizado supervisionado
-- Cada registro possui um atributo que identifica a classe (se é gato, se é cachorro; se é fraude ou se não é);
-- Tupla X: conjunto de características
-- Tupla Y: identifica a classe (uma só)
-### Aprendizado não supervisionado
-- Não possui a classe que ele pertence
-
-
-- Bagunçar o máximo possível
-- Aleatoriezar (MLP, Perceptrons)

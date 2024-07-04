@@ -25,13 +25,30 @@ nˆ2, 3nˆ2/2, 9999nˆ2, nˆ2/1000
 ### Propriedades:
 
 
-## Ordem o
+## Ordem ozinho
 - O pequeno, (ômicron)
 - Não permite que as duas funções se toquem
 
 ## Ordem ômega
 - Limite inferior
 - Custo mínimo
-- É o menor custo de execução de um algorimo
+- É o menor custo de execução de um algoritmo
+
+## Ordem ômegazinho
+- Não permite que ambas as funções chegam iguais
+
+## Ordem teta
+- Mesmo comportamento
+- QuickSort = teta(MergeSort)
+
+### Análise assintótica:
+- Provê uma aproximação do real custo de execução do algoritmo
+- Porém, não é necessario implementar e rodar o algoritmo para avaliar o custo
+- Basta fazer a análise de forma precisa
+
+
+# Análise empírica
+- cenário
+- variações
 
 
