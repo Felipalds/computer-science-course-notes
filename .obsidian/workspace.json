@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/clean code/3 - Funções.md",
+                "file": "fourth-year/MACHINE LEARNING/Aula 04 - Árvore de decisão.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/clean code/3 - Funções.md",
+                "file": "fourth-year/MACHINE LEARNING/Aula 04 - Árvore de decisão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/clean code/3 - Funções.md",
+                "file": "fourth-year/MACHINE LEARNING/Aula 04 - Árvore de decisão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/clean code/3 - Funções.md"
+                "file": "fourth-year/MACHINE LEARNING/Aula 04 - Árvore de decisão.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "f560e91145502a84",
   "lastOpenFiles": [
-    "books/clean code/1 - Introdução.md",
+    "Screenshot 2024-07-04 at 10.49.56.png",
+    "Screenshot 2024-07-04 at 10.48.10.png",
+    "Screenshot 2024-07-04 at 10.39.43.png",
+    "Screenshot 2024-07-04 at 10.39.26.png",
+    "Screenshot 2024-07-04 at 10.36.10.png",
+    "fourth-year/MACHINE LEARNING/Aula 03 - KNN.md",
+    "fourth-year/MACHINE LEARNING/Aula 04 - Árvore de decisão.md",
+    "fourth-year/MACHINE LEARNING/Aula 01 - Introdução.md",
     "books/clean code/3 - Funções.md",
+    "books/clean code/1 - Introdução.md",
     "books/clean code/2 - Nomes significativos.md",
     "tcc/hyperledger-fabric/Introdução.md",
     "books/clean code",
@@ -162,25 +170,18 @@
     "assets/Screenshot 2024-07-01 at 09.57.55.png",
     "project_rnp/Resumo Survey.md",
     "assets/Screenshot 2024-07-02 at 16.04.37.png",
-    "fourth-year/MACHINE LEARNING/Aula 04 - Árvore de decisão.md",
     "tcc/hyperledger-fabric",
-    "fourth-year/MACHINE LEARNING/Aula 03 - KNN.md",
     "assets/Screenshot 2024-07-02 at 15.56.54.png",
     "fourth-year/COMPILADORES/Aula 01 - Planejamento de um novo compilador.md",
     "assets/Screenshot 2024-07-02 at 15.44.54.png",
     "assets/Screenshot 2024-07-02 at 15.34.03.png",
     "assets/Screenshot 2024-07-02 at 15.27.43.png",
-    "assets/Screenshot 2024-07-02 at 15.25.24.png",
     "fourth-year/MACHINE LEARNING/Aula 00 - Apresentação da disciplina.md",
     "java/Spring Batch/Introdução.md",
-    "assets/Screenshot 2024-07-02 at 11.09.27.png",
-    "assets/Screenshot 2024-07-02 at 11.05.30.png",
     "fourth-year/MACHINE LEARNING/Aula 02 - Processo de aprendizado.md",
     "java/Spring Batch",
     "java/Spring/Untitled",
     "java/Hibernate/Cascade Types.md",
-    "fourth-year/MACHINE LEARNING/Aula 01 - Introdução.md",
-    "assets/Screenshot 2024-07-01 at 14.05.41.png",
     "java/core/Primitive Types.md",
     "fourth-year/ADMINISTRAÇÃO/Administração.md",
     "java/core/Optional.md",
@@ -190,7 +191,6 @@
     "java/Lombok/Introduction.md",
     "fourth-year/ADMINISTRAÇÃO",
     "fourth-year/COMPILADORES/Aula 00 - Introdução.md",
-    "js-stack/Next/Next Image.md",
     "fourth-year/COMPILADORES",
     "bugs",
     "myfood",
